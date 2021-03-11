@@ -1,0 +1,3667 @@
+100Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	204	202	204
+MA2	204	0	88	0
+MM1	202	88	0	88
+MM2	204	0	88	0
+101Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	281	0	209
+MA2	281	0	281	290
+MM1	0	281	0	209
+MM2	209	290	209	0
+102Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	127	139	127
+MA2	127	0	51	0
+MM1	139	51	0	51
+MM2	127	0	51	0
+107Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	236	118	122
+MA2	236	0	236	253
+MM1	118	236	0	116
+MM2	122	253	116	0
+108Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	352	362	349
+MA2	352	0	232	216
+MM1	362	232	0	227
+MM2	349	216	227	0
+10Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	361	3	213
+MA2	361	0	364	392
+MM1	3	364	0	211
+MM2	213	392	211	0
+110Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	111	0	52
+MA2	111	0	111	120
+MM1	0	111	0	52
+MM2	52	120	52	0
+112Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	177	0	50
+MA2	177	0	177	181
+MM1	0	177	0	50
+MM2	50	181	50	0
+114Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	313	316	312
+MA2	313	0	168	152
+MM1	316	168	0	156
+MM2	312	152	156	0
+115Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	313	305	303
+MA2	313	0	119	149
+MM1	305	119	0	156
+MM2	303	149	156	0
+116Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	188	200	188
+MA2	188	0	81	0
+MM1	200	81	0	81
+MM2	188	0	81	0
+119Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	204	203	204
+MA2	204	0	34	0
+MM1	203	34	0	34
+MM2	204	0	34	0
+121Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	23	13	12
+MA2	23	0	16	17
+MM1	13	16	0	3
+MM2	12	17	3	0
+123Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	157	157	148
+MA2	157	0	0	59
+MM1	157	0	0	59
+MM2	148	59	59	0
+124Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	283	275	281
+MA2	283	0	109	132
+MM1	275	109	0	118
+MM2	281	132	118	0
+125Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	219	219	217
+MA2	219	0	0	93
+MM1	219	0	0	93
+MM2	217	93	93	0
+127Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	250	127	95
+MA2	250	0	238	228
+MM1	127	238	0	114
+MM2	95	228	114	0
+128Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	267	248	267
+MA2	267	0	105	0
+MM1	248	105	0	105
+MM2	267	0	105	0
+129Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	344	354	345
+MA2	344	0	213	167
+MM1	354	213	0	219
+MM2	345	167	219	0
+12Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	87	88	87
+MA2	87	0	1	0
+MM1	88	1	0	1
+MM2	87	0	1	0
+131Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	0	35	99
+MA2	0	0	35	99
+MM1	35	35	0	132
+MM2	99	99	132	0
+132Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	155	155	142
+MA2	155	0	0	57
+MM1	155	0	0	57
+MM2	142	57	57	0
+133Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	66	60	103
+MA2	66	0	6	76
+MM1	60	6	0	70
+MM2	103	76	70	0
+134Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	146	92	0
+MA2	146	0	154	146
+MM1	92	154	0	92
+MM2	0	146	92	0
+135Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	313	182	0
+MA2	313	0	329	313
+MM1	182	329	0	182
+MM2	0	313	182	0
+136Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	279	313	279
+MA2	279	0	190	0
+MM1	313	190	0	190
+MM2	279	0	190	0
+139Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	358	137	0
+MA2	358	0	359	358
+MM1	137	359	0	137
+MM2	0	358	137	0
+13Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	176	80	0
+MA2	176	0	179	176
+MM1	80	179	0	80
+MM2	0	176	80	0
+140Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	245	245	235
+MA2	245	0	0	99
+MM1	245	0	0	99
+MM2	235	99	99	0
+141Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	145	145	145
+MA2	145	0	0	73
+MM1	145	0	0	73
+MM2	145	73	73	0
+145Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	156	158	156
+MA2	156	0	74	0
+MM1	158	74	0	74
+MM2	156	0	74	0
+146Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	514	508	514
+MA2	514	0	358	0
+MM1	508	358	0	358
+MM2	514	0	358	0
+147Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	0	109	126
+MA2	0	0	109	126
+MM1	109	109	0	60
+MM2	126	126	60	0
+148Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	259	0	120
+MA2	259	0	259	229
+MM1	0	259	0	120
+MM2	120	229	120	0
+149Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	346	0	174
+MA2	346	0	346	352
+MM1	0	346	0	174
+MM2	174	352	174	0
+150Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	77	70	77
+MA2	77	0	36	0
+MM1	70	36	0	36
+MM2	77	0	36	0
+152Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	243	118	0
+MA2	243	0	249	243
+MM1	118	249	0	118
+MM2	0	243	118	0
+153Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	149	151	146
+MA2	149	0	2	63
+MM1	151	2	0	61
+MM2	146	63	61	0
+155Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	323	139	3
+MA2	323	0	320	326
+MM1	139	320	0	136
+MM2	3	326	136	0
+156Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	185	0	74
+MA2	185	0	185	172
+MM1	0	185	0	74
+MM2	74	172	74	0
+157Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	316	303	315
+MA2	316	0	188	190
+MM1	303	188	0	177
+MM2	315	190	177	0
+158Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	529	529	510
+MA2	529	0	0	260
+MM1	529	0	0	260
+MM2	510	260	260	0
+15Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	192	0	80
+MA2	192	0	192	191
+MM1	0	192	0	80
+MM2	80	191	80	0
+160Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	82	90	82
+MA2	82	0	40	0
+MM1	90	40	0	40
+MM2	82	0	40	0
+162Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	114	113	116
+MA2	114	0	51	52
+MM1	113	51	0	36
+MM2	116	52	36	0
+163Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	81	240	233
+MA2	81	0	237	242
+MM1	240	237	0	193
+MM2	233	242	193	0
+164Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	433	435	415
+MA2	433	0	157	116
+MM1	435	157	0	41
+MM2	415	116	41	0
+165Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	147	147	153
+MA2	147	0	0	62
+MM1	147	0	0	62
+MM2	153	62	62	0
+166Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	559	0	197
+MA2	559	0	559	592
+MM1	0	559	0	197
+MM2	197	592	197	0
+167Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	220	233	220
+MA2	220	0	130	0
+MM1	233	130	0	130
+MM2	220	0	130	0
+170Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	101	44	39
+MA2	101	0	97	98
+MM1	44	97	0	43
+MM2	39	98	43	0
+171Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	185	230	242
+MA2	185	0	139	149
+MM1	230	139	0	139
+MM2	242	149	139	0
+173Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	191	191	191
+MA2	191	0	68	0
+MM1	191	68	0	68
+MM2	191	0	68	0
+174Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	121	163	87
+MA2	121	0	199	208
+MM1	163	199	0	117
+MM2	87	208	117	0
+175Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	215	215	218
+MA2	215	0	0	72
+MM1	215	0	0	72
+MM2	218	72	72	0
+176Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	252	231	274
+MA2	252	0	168	102
+MM1	231	168	0	141
+MM2	274	102	141	0
+178Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	74	128	164
+MA2	74	0	202	202
+MM1	128	202	0	78
+MM2	164	202	78	0
+179Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	261	155	0
+MA2	261	0	275	261
+MM1	155	275	0	155
+MM2	0	261	155	0
+180Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	147	160	147
+MA2	147	0	32	0
+MM1	160	32	0	32
+MM2	147	0	32	0
+181Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	225	140	0
+MA2	225	0	223	225
+MM1	140	223	0	140
+MM2	0	225	140	0
+183Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	15	168	15
+MA2	15	0	155	0
+MM1	168	155	0	155
+MM2	15	0	155	0
+184Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	296	296	293
+MA2	296	0	0	168
+MM1	296	0	0	168
+MM2	293	168	168	0
+186Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	155	162	155
+MA2	155	0	69	0
+MM1	162	69	0	69
+MM2	155	0	69	0
+189Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	229	220	229
+MA2	229	0	142	0
+MM1	220	142	0	142
+MM2	229	0	142	0
+191Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	243	108	115
+MA2	243	0	235	246
+MM1	108	235	0	130
+MM2	115	246	130	0
+196Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	167	195	179
+MA2	167	0	92	97
+MM1	195	92	0	106
+MM2	179	97	106	0
+197Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	284	290	300
+MA2	284	0	130	148
+MM1	290	130	0	139
+MM2	300	148	139	0
+198Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	403	411	403
+MA2	403	0	270	0
+MM1	411	270	0	270
+MM2	403	0	270	0
+199Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	117	0	51
+MA2	117	0	117	121
+MM1	0	117	0	51
+MM2	51	121	51	0
+19Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	241	241	237
+MA2	241	0	0	116
+MM1	241	0	0	116
+MM2	237	116	116	0
+200Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	270	281	270
+MA2	270	0	160	0
+MM1	281	160	0	160
+MM2	270	0	160	0
+201Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	367	235	232
+MA2	367	0	361	360
+MM1	235	361	0	41
+MM2	232	360	41	0
+202Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	63	66	63
+MA2	63	0	38	0
+MM1	66	38	0	38
+MM2	63	0	38	0
+203Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	445	244	241
+MA2	445	0	471	461
+MM1	244	471	0	235
+MM2	241	461	235	0
+205Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	208	98	116
+MA2	208	0	224	210
+MM1	98	224	0	104
+MM2	116	210	104	0
+206Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	265	265	265
+MA2	265	0	0	144
+MM1	265	0	0	144
+MM2	265	144	144	0
+208Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	119	61	0
+MA2	119	0	111	119
+MM1	61	111	0	61
+MM2	0	119	61	0
+20Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	59	62	59
+MA2	59	0	24	0
+MM1	62	24	0	24
+MM2	59	0	24	0
+212Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	196	200	196
+MA2	196	0	78	0
+MM1	200	78	0	78
+MM2	196	0	78	0
+213Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	184	95	0
+MA2	184	0	183	184
+MM1	95	183	0	95
+MM2	0	184	95	0
+215Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	598	364	351
+MA2	598	0	588	625
+MM1	364	588	0	340
+MM2	351	625	340	0
+216Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	217	161	161
+MA2	217	0	378	378
+MM1	161	378	0	0
+MM2	161	378	0	0
+218Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	291	198	194
+MA2	291	0	323	327
+MM1	198	323	0	56
+MM2	194	327	56	0
+219Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	0	734	734
+MA2	0	0	734	734
+MM1	734	734	0	0
+MM2	734	734	0	0
+220Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	201	224	201
+MA2	201	0	79	0
+MM1	224	79	0	79
+MM2	201	0	79	0
+221Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	195	200	165
+MA2	195	0	149	97
+MM1	200	149	0	132
+MM2	165	97	132	0
+222Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	109	88	0
+MA2	109	0	163	109
+MM1	88	163	0	88
+MM2	0	109	88	0
+223Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	277	109	128
+MA2	277	0	283	283
+MM1	109	283	0	121
+MM2	128	283	121	0
+224Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	141	138	141
+MA2	141	0	86	0
+MM1	138	86	0	86
+MM2	141	0	86	0
+225Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	231	225	225
+MA2	231	0	42	83
+MM1	225	42	0	81
+MM2	225	83	81	0
+226Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	0	117	259
+MA2	0	0	117	259
+MM1	117	117	0	142
+MM2	259	259	142	0
+227Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	43	148	176
+MA2	43	0	171	201
+MM1	148	171	0	148
+MM2	176	201	148	0
+228Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	340	346	331
+MA2	340	0	98	143
+MM1	346	98	0	157
+MM2	331	143	157	0
+22Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	193	193	235
+MA2	193	0	0	117
+MM1	193	0	0	117
+MM2	235	117	117	0
+230Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	76	229	186
+MA2	76	0	263	262
+MM1	229	263	0	113
+MM2	186	262	113	0
+233Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	118	118	119
+MA2	118	0	0	63
+MM1	118	0	0	63
+MM2	119	63	63	0
+235Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	239	249	239
+MA2	239	0	211	0
+MM1	249	211	0	211
+MM2	239	0	211	0
+237Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	369	271	0
+MA2	369	0	337	369
+MM1	271	337	0	271
+MM2	0	369	271	0
+238Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	210	0	112
+MA2	210	0	210	215
+MM1	0	210	0	112
+MM2	112	215	112	0
+240Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	271	130	0
+MA2	271	0	275	271
+MM1	130	275	0	130
+MM2	0	271	130	0
+241Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	299	317	320
+MA2	299	0	36	126
+MM1	317	36	0	96
+MM2	320	126	96	0
+243Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	293	0	168
+MA2	293	0	293	313
+MM1	0	293	0	168
+MM2	168	313	168	0
+244Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	259	0	139
+MA2	259	0	259	248
+MM1	0	259	0	139
+MM2	139	248	139	0
+245Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	273	114	7
+MA2	273	0	255	276
+MM1	114	255	0	107
+MM2	7	276	107	0
+248Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	189	200	212
+MA2	189	0	99	110
+MM1	200	99	0	76
+MM2	212	110	76	0
+249Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	122	61	0
+MA2	122	0	110	122
+MM1	61	110	0	61
+MM2	0	122	61	0
+24Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	188	7	7
+MA2	188	0	187	187
+MM1	7	187	0	0
+MM2	7	187	0	0
+250Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	269	260	269
+MA2	269	0	83	0
+MM1	260	83	0	83
+MM2	269	0	83	0
+251Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	453	453	451
+MA2	453	0	0	268
+MM1	453	0	0	268
+MM2	451	268	268	0
+253Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	255	272	266
+MA2	255	0	149	113
+MM1	272	149	0	101
+MM2	266	113	101	0
+255Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	190	107	105
+MA2	190	0	195	187
+MM1	107	195	0	109
+MM2	105	187	109	0
+256Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	188	183	188
+MA2	188	0	64	0
+MM1	183	64	0	64
+MM2	188	0	64	0
+257Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	350	350	360
+MA2	350	0	0	194
+MM1	350	0	0	194
+MM2	360	194	194	0
+258Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	177	0	93
+MA2	177	0	177	179
+MM1	0	177	0	93
+MM2	93	179	93	0
+259Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	297	190	126
+MA2	297	0	275	291
+MM1	190	275	0	180
+MM2	126	291	180	0
+261Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	226	218	226
+MA2	226	0	92	0
+MM1	218	92	0	92
+MM2	226	0	92	0
+262Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	222	88	81
+MA2	222	0	208	213
+MM1	88	208	0	83
+MM2	81	213	83	0
+263Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	206	78	6
+MA2	206	0	221	212
+MM1	78	221	0	76
+MM2	6	212	76	0
+264Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	220	237	233
+MA2	220	0	167	140
+MM1	237	167	0	27
+MM2	233	140	27	0
+265Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	323	342	339
+MA2	323	0	173	16
+MM1	342	173	0	157
+MM2	339	16	157	0
+267Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	114	109	95
+MA2	114	0	121	123
+MM1	109	121	0	67
+MM2	95	123	67	0
+268Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	197	215	208
+MA2	197	0	94	85
+MM1	215	94	0	77
+MM2	208	85	77	0
+26Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	96	232	153
+MA2	96	0	286	249
+MM1	232	286	0	177
+MM2	153	249	177	0
+272Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	164	169	164
+MA2	164	0	75	0
+MM1	169	75	0	75
+MM2	164	0	75	0
+275Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	129	156	162
+MA2	129	0	45	33
+MM1	156	45	0	22
+MM2	162	33	22	0
+277Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	222	228	221
+MA2	222	0	63	109
+MM1	228	63	0	127
+MM2	221	109	127	0
+278Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	353	175	0
+MA2	353	0	390	353
+MM1	175	390	0	175
+MM2	0	353	175	0
+27Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	0	384	384
+MA2	0	0	384	384
+MM1	384	384	0	0
+MM2	384	384	0	0
+280Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	91	104	97
+MA2	91	0	56	33
+MM1	104	56	0	58
+MM2	97	33	58	0
+282Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	176	122	104
+MA2	176	0	196	161
+MM1	122	196	0	107
+MM2	104	161	107	0
+283Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	271	137	145
+MA2	271	0	262	265
+MM1	137	262	0	156
+MM2	145	265	156	0
+284Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	59	22	0
+MA2	59	0	57	59
+MM1	22	57	0	22
+MM2	0	59	22	0
+286Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	367	377	381
+MA2	367	0	179	175
+MM1	377	179	0	212
+MM2	381	175	212	0
+28Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	277	288	277
+MA2	277	0	137	0
+MM1	288	137	0	137
+MM2	277	0	137	0
+291Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	367	386	371
+MA2	367	0	171	193
+MM1	386	171	0	149
+MM2	371	193	149	0
+293Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	223	223	217
+MA2	223	0	0	147
+MM1	223	0	0	147
+MM2	217	147	147	0
+295Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	303	0	282
+MA2	303	0	303	442
+MM1	0	303	0	282
+MM2	282	442	282	0
+297Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	254	180	0
+MA2	254	0	256	254
+MM1	180	256	0	180
+MM2	0	254	180	0
+299Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	348	333	344
+MA2	348	0	202	205
+MM1	333	202	0	188
+MM2	344	205	188	0
+29Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	195	219	188
+MA2	195	0	106	81
+MM1	219	106	0	105
+MM2	188	81	105	0
+300Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	279	146	181
+MA2	279	0	275	286
+MM1	146	275	0	176
+MM2	181	286	176	0
+301Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	183	190	192
+MA2	183	0	93	104
+MM1	190	93	0	79
+MM2	192	104	79	0
+304Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	603	617	603
+MA2	603	0	302	0
+MM1	617	302	0	302
+MM2	603	0	302	0
+305Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	502	514	500
+MA2	502	0	240	218
+MM1	514	240	0	171
+MM2	500	218	171	0
+308Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	256	100	0
+MA2	256	0	259	256
+MM1	100	259	0	100
+MM2	0	256	100	0
+309Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	254	244	269
+MA2	254	0	158	173
+MM1	244	158	0	188
+MM2	269	173	188	0
+312Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	206	200	193
+MA2	206	0	82	122
+MM1	200	82	0	122
+MM2	193	122	122	0
+313Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	253	0	99
+MA2	253	0	253	265
+MM1	0	253	0	99
+MM2	99	265	99	0
+314Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	168	0	115
+MA2	168	0	168	153
+MM1	0	168	0	115
+MM2	115	153	115	0
+315Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	108	45	65
+MA2	108	0	113	101
+MM1	45	113	0	68
+MM2	65	101	68	0
+318Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	204	207	204
+MA2	204	0	88	0
+MM1	207	88	0	88
+MM2	204	0	88	0
+319Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	259	0	167
+MA2	259	0	259	253
+MM1	0	259	0	167
+MM2	167	253	167	0
+31Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	295	295	311
+MA2	295	0	0	118
+MM1	295	0	0	118
+MM2	311	118	118	0
+322Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	112	108	118
+MA2	112	0	37	40
+MM1	108	37	0	43
+MM2	118	40	43	0
+324Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	555	355	285
+MA2	555	0	578	555
+MM1	355	578	0	333
+MM2	285	555	333	0
+325Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	305	0	92
+MA2	305	0	305	310
+MM1	0	305	0	92
+MM2	92	310	92	0
+329Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	161	164	161
+MA2	161	0	74	0
+MM1	164	74	0	74
+MM2	161	0	74	0
+32Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	115	57	0
+MA2	115	0	103	115
+MM1	57	103	0	57
+MM2	0	115	57	0
+330Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	257	0	81
+MA2	257	0	257	263
+MM1	0	257	0	81
+MM2	81	263	81	0
+331Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	217	69	0
+MA2	217	0	222	217
+MM1	69	222	0	69
+MM2	0	217	69	0
+333Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	339	340	337
+MA2	339	0	3	124
+MM1	340	3	0	121
+MM2	337	124	121	0
+334Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	479	479	466
+MA2	479	0	0	155
+MM1	479	0	0	155
+MM2	466	155	155	0
+335Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	222	129	20
+MA2	222	0	227	242
+MM1	129	227	0	109
+MM2	20	242	109	0
+336Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	179	72	0
+MA2	179	0	175	179
+MM1	72	175	0	72
+MM2	0	179	72	0
+337Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	413	247	293
+MA2	413	0	427	430
+MM1	247	427	0	203
+MM2	293	430	203	0
+338Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	239	92	0
+MA2	239	0	237	239
+MM1	92	237	0	92
+MM2	0	239	92	0
+339Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	159	160	159
+MA2	159	0	1	0
+MM1	160	1	0	1
+MM2	159	0	1	0
+33Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	222	233	245
+MA2	222	0	112	102
+MM1	233	112	0	128
+MM2	245	102	128	0
+340Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	222	231	223
+MA2	222	0	102	97
+MM1	231	102	0	98
+MM2	223	97	98	0
+341Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	261	252	264
+MA2	261	0	97	142
+MM1	252	97	0	149
+MM2	264	142	149	0
+343Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	280	0	100
+MA2	280	0	280	305
+MM1	0	280	0	100
+MM2	100	305	100	0
+345Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	176	170	176
+MA2	176	0	56	0
+MM1	170	56	0	56
+MM2	176	0	56	0
+346Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	55	2321	2313
+MA2	55	0	2328	2320
+MM1	2321	2328	0	53
+MM2	2313	2320	53	0
+348Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	241	230	241
+MA2	241	0	66	0
+MM1	230	66	0	66
+MM2	241	0	66	0
+349Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	475	480	455
+MA2	475	0	207	240
+MM1	480	207	0	241
+MM2	455	240	241	0
+350Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	373	400	373
+MA2	373	0	174	0
+MM1	400	174	0	174
+MM2	373	0	174	0
+351Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	137	69	0
+MA2	137	0	145	137
+MM1	69	145	0	69
+MM2	0	137	69	0
+352Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	0	288	220
+MA2	0	0	288	220
+MM1	288	288	0	189
+MM2	220	220	189	0
+353Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	196	196	203
+MA2	196	0	97	113
+MM1	196	97	0	102
+MM2	203	113	102	0
+356Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	229	230	245
+MA2	229	0	79	123
+MM1	230	79	0	90
+MM2	245	123	90	0
+357Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	214	120	120
+MA2	214	0	216	217
+MM1	120	216	0	99
+MM2	120	217	99	0
+363Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	0	208	180
+MA2	0	0	208	180
+MM1	208	208	0	126
+MM2	180	180	126	0
+365Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	281	113	0
+MA2	281	0	269	281
+MM1	113	269	0	113
+MM2	0	281	113	0
+367Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	171	85	62
+MA2	171	0	197	172
+MM1	85	197	0	92
+MM2	62	172	92	0
+368Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	318	130	0
+MA2	318	0	323	318
+MM1	130	323	0	130
+MM2	0	318	130	0
+369Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	50	1490	1485
+MA2	50	0	1488	1483
+MM1	1490	1488	0	27
+MM2	1485	1483	27	0
+371Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	172	97	0
+MA2	172	0	185	172
+MM1	97	185	0	97
+MM2	0	172	97	0
+372Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	0	129	0
+MA2	0	0	129	0
+MM1	129	129	0	129
+MM2	0	0	129	0
+373Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	192	67	115
+MA2	192	0	186	201
+MM1	67	186	0	118
+MM2	115	201	118	0
+374Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	343	167	146
+MA2	343	0	344	322
+MM1	167	344	0	182
+MM2	146	322	182	0
+375Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	176	0	56
+MA2	176	0	176	171
+MM1	0	176	0	56
+MM2	56	171	56	0
+378Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	160	58	0
+MA2	160	0	156	160
+MM1	58	156	0	58
+MM2	0	160	58	0
+379Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	393	387	393
+MA2	393	0	110	0
+MM1	387	110	0	110
+MM2	393	0	110	0
+37Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	190	85	0
+MA2	190	0	209	190
+MM1	85	209	0	85
+MM2	0	190	85	0
+381Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	109	109	112
+MA2	109	0	0	22
+MM1	109	0	0	22
+MM2	112	22	22	0
+382Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	334	280	334
+MA2	334	0	196	0
+MM1	280	196	0	196
+MM2	334	0	196	0
+383Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	249	95	0
+MA2	249	0	249	249
+MM1	95	249	0	95
+MM2	0	249	95	0
+384Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	186	187	191
+MA2	186	0	109	118
+MM1	187	109	0	85
+MM2	191	118	85	0
+386Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	143	166	143
+MA2	143	0	67	0
+MM1	166	67	0	67
+MM2	143	0	67	0
+387Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	251	80	113
+MA2	251	0	245	276
+MM1	80	245	0	101
+MM2	113	276	101	0
+388Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	108	8	8
+MA2	108	0	116	116
+MM1	8	116	0	0
+MM2	8	116	0	0
+389Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	288	288	269
+MA2	288	0	0	110
+MM1	288	0	0	110
+MM2	269	110	110	0
+390Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	74	73	74
+MA2	74	0	36	0
+MM1	73	36	0	36
+MM2	74	0	36	0
+391Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	139	138	127
+MA2	139	0	57	76
+MM1	138	57	0	83
+MM2	127	76	83	0
+392Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	197	218	195
+MA2	197	0	137	91
+MM1	218	137	0	123
+MM2	195	91	123	0
+393Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	371	4	186
+MA2	371	0	373	404
+MM1	4	373	0	190
+MM2	186	404	190	0
+395Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	190	0	62
+MA2	190	0	190	185
+MM1	0	190	0	62
+MM2	62	185	62	0
+396Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	3	259	241
+MA2	3	0	260	242
+MM1	259	260	0	116
+MM2	241	242	116	0
+397Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	47	61	47
+MA2	47	0	28	0
+MM1	61	28	0	28
+MM2	47	0	28	0
+398Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	197	127	123
+MA2	197	0	218	205
+MM1	127	218	0	143
+MM2	123	205	143	0
+399Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	213	91	110
+MA2	213	0	233	244
+MM1	91	233	0	88
+MM2	110	244	88	0
+401Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	147	124	106
+MA2	147	0	147	147
+MM1	124	147	0	78
+MM2	106	147	78	0
+402Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	511	512	514
+MA2	511	0	1	310
+MM1	512	1	0	309
+MM2	514	310	309	0
+404Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	327	150	0
+MA2	327	0	335	327
+MM1	150	335	0	150
+MM2	0	327	150	0
+408Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	349	303	303
+MA2	349	0	229	200
+MM1	303	229	0	29
+MM2	303	200	29	0
+409Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	82	111	137
+MA2	82	0	177	184
+MM1	111	177	0	155
+MM2	137	184	155	0
+411Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	239	239	209
+MA2	239	0	0	115
+MM1	239	0	0	115
+MM2	209	115	115	0
+412Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	262	109	111
+MA2	262	0	258	267
+MM1	109	258	0	122
+MM2	111	267	122	0
+413Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	105	113	105
+MA2	105	0	76	0
+MM1	113	76	0	76
+MM2	105	0	76	0
+415Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	263	263	263
+MA2	263	0	110	0
+MM1	263	110	0	110
+MM2	263	0	110	0
+416Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	155	158	138
+MA2	155	0	77	71
+MM1	158	77	0	95
+MM2	138	71	95	0
+418Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	133	0	78
+MA2	133	0	133	119
+MM1	0	133	0	78
+MM2	78	119	78	0
+420Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	137	94	0
+MA2	137	0	147	137
+MM1	94	147	0	94
+MM2	0	137	94	0
+421Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	150	58	52
+MA2	150	0	138	135
+MM1	58	138	0	52
+MM2	52	135	52	0
+422Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	219	231	216
+MA2	219	0	118	90
+MM1	231	118	0	110
+MM2	216	90	110	0
+424Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	237	255	237
+MA2	237	0	131	0
+MM1	255	131	0	131
+MM2	237	0	131	0
+427Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	183	0	140
+MA2	183	0	183	166
+MM1	0	183	0	140
+MM2	140	166	140	0
+429Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	725	386	362
+MA2	725	0	718	701
+MM1	386	718	0	360
+MM2	362	701	360	0
+42Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	162	89	0
+MA2	162	0	161	162
+MM1	89	161	0	89
+MM2	0	162	89	0
+430Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	110	175	121
+MA2	110	0	107	51
+MM1	175	107	0	70
+MM2	121	51	70	0
+432Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	250	249	255
+MA2	250	0	131	140
+MM1	249	131	0	96
+MM2	255	140	96	0
+433Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	187	187	189
+MA2	187	0	0	58
+MM1	187	0	0	58
+MM2	189	58	58	0
+434Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	193	74	0
+MA2	193	0	185	193
+MM1	74	185	0	74
+MM2	0	193	74	0
+435Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	184	184	177
+MA2	184	0	0	48
+MM1	184	0	0	48
+MM2	177	48	48	0
+436Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	353	355	349
+MA2	353	0	196	208
+MM1	355	196	0	20
+MM2	349	208	20	0
+438Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	178	195	178
+MA2	178	0	82	0
+MM1	195	82	0	82
+MM2	178	0	82	0
+439Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	631	279	285
+MA2	631	0	613	624
+MM1	279	613	0	278
+MM2	285	624	278	0
+441Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	175	175	182
+MA2	175	0	0	83
+MM1	175	0	0	83
+MM2	182	83	83	0
+442Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	269	260	269
+MA2	269	0	126	0
+MM1	260	126	0	126
+MM2	269	0	126	0
+445Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	1	163	180
+MA2	1	0	162	179
+MM1	163	162	0	108
+MM2	180	179	108	0
+446Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	305	306	305
+MA2	305	0	166	0
+MM1	306	166	0	166
+MM2	305	0	166	0
+447Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	184	78	0
+MA2	184	0	193	184
+MM1	78	193	0	78
+MM2	0	184	78	0
+450Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	309	328	313
+MA2	309	0	203	198
+MM1	328	203	0	149
+MM2	313	198	149	0
+452Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	216	207	198
+MA2	216	0	73	61
+MM1	207	73	0	62
+MM2	198	61	62	0
+453Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	0	354	351
+MA2	0	0	354	351
+MM1	354	354	0	13
+MM2	351	351	13	0
+455Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	341	349	326
+MA2	341	0	185	165
+MM1	349	185	0	153
+MM2	326	165	153	0
+456Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	88	0	0
+MA2	88	0	88	88
+MM1	0	88	0	0
+MM2	0	88	0	0
+459Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	590	392	381
+MA2	590	0	583	592
+MM1	392	583	0	311
+MM2	381	592	311	0
+462Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	366	366	351
+MA2	366	0	0	68
+MM1	366	0	0	68
+MM2	351	68	68	0
+464Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	258	243	251
+MA2	258	0	98	117
+MM1	243	98	0	104
+MM2	251	117	104	0
+466Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	224	129	0
+MA2	224	0	237	224
+MM1	129	237	0	129
+MM2	0	224	129	0
+467Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	386	444	386
+MA2	386	0	254	0
+MM1	444	254	0	254
+MM2	386	0	254	0
+468Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	184	82	0
+MA2	184	0	178	184
+MM1	82	178	0	82
+MM2	0	184	82	0
+469Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	255	255	237
+MA2	255	0	0	105
+MM1	255	0	0	105
+MM2	237	105	105	0
+46Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	284	312	289
+MA2	284	0	193	155
+MM1	312	193	0	179
+MM2	289	155	179	0
+470Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	32	320	32
+MA2	32	0	288	0
+MM1	320	288	0	288
+MM2	32	0	288	0
+471Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	148	72	0
+MA2	148	0	149	148
+MM1	72	149	0	72
+MM2	0	148	72	0
+473Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	227	238	242
+MA2	227	0	98	100
+MM1	238	98	0	86
+MM2	242	100	86	0
+474Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	217	74	81
+MA2	217	0	226	239
+MM1	74	226	0	85
+MM2	81	239	85	0
+475Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	216	0	73
+MA2	216	0	216	221
+MM1	0	216	0	73
+MM2	73	221	73	0
+476Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	228	0	132
+MA2	228	0	228	226
+MM1	0	228	0	132
+MM2	132	226	132	0
+477Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	257	20	102
+MA2	257	0	257	267
+MM1	20	257	0	82
+MM2	102	267	82	0
+478Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	337	143	156
+MA2	337	0	355	353
+MM1	143	355	0	108
+MM2	156	353	108	0
+479Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	127	92	96
+MA2	127	0	144	147
+MM1	92	144	0	112
+MM2	96	147	112	0
+480Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	359	165	164
+MA2	359	0	354	350
+MM1	165	354	0	64
+MM2	164	350	64	0
+483Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	405	0	193
+MA2	405	0	405	410
+MM1	0	405	0	193
+MM2	193	410	193	0
+485Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	99	35	38
+MA2	99	0	100	100
+MM1	35	100	0	15
+MM2	38	100	15	0
+487Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	160	0	81
+MA2	160	0	160	165
+MM1	0	160	0	81
+MM2	81	165	81	0
+488Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	65	315	65
+MA2	65	0	282	0
+MM1	315	282	0	282
+MM2	65	0	282	0
+489Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	127	145	127
+MA2	127	0	81	0
+MM1	145	81	0	81
+MM2	127	0	81	0
+48Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	411	411	401
+MA2	411	0	0	189
+MM1	411	0	0	189
+MM2	401	189	189	0
+490Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	304	0	183
+MA2	304	0	304	288
+MM1	0	304	0	183
+MM2	183	288	183	0
+491Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	273	109	102
+MA2	273	0	260	258
+MM1	109	260	0	96
+MM2	102	258	96	0
+493Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	200	103	89
+MA2	200	0	217	212
+MM1	103	217	0	91
+MM2	89	212	91	0
+494Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	254	127	126
+MA2	254	0	255	238
+MM1	127	255	0	101
+MM2	126	238	101	0
+495Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	308	296	308
+MA2	308	0	141	0
+MM1	296	141	0	141
+MM2	308	0	141	0
+496Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	228	238	246
+MA2	228	0	200	187
+MM1	238	200	0	148
+MM2	246	187	148	0
+497Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	407	248	0
+MA2	407	0	425	407
+MM1	248	425	0	248
+MM2	0	407	248	0
+499Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	119	119	128
+MA2	119	0	0	66
+MM1	119	0	0	66
+MM2	128	66	66	0
+49Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	198	79	7
+MA2	198	0	208	199
+MM1	79	208	0	72
+MM2	7	199	72	0
+500Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	384	280	0
+MA2	384	0	505	384
+MM1	280	505	0	280
+MM2	0	384	280	0
+501Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	257	265	237
+MA2	257	0	59	80
+MM1	265	59	0	139
+MM2	237	80	139	0
+503Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	277	0	147
+MA2	277	0	277	272
+MM1	0	277	0	147
+MM2	147	272	147	0
+508Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	328	324	337
+MA2	328	0	152	153
+MM1	324	152	0	192
+MM2	337	153	192	0
+509Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	210	89	102
+MA2	210	0	200	195
+MM1	89	200	0	79
+MM2	102	195	79	0
+50Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	228	234	228
+MA2	228	0	113	0
+MM1	234	113	0	113
+MM2	228	0	113	0
+511Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	140	140	144
+MA2	140	0	0	56
+MM1	140	0	0	56
+MM2	144	56	56	0
+513Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	108	102	108
+MA2	108	0	43	0
+MM1	102	43	0	43
+MM2	108	0	43	0
+519Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	240	0	44
+MA2	240	0	240	229
+MM1	0	240	0	44
+MM2	44	229	44	0
+520Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	74	74	82
+MA2	74	0	0	26
+MM1	74	0	0	26
+MM2	82	26	26	0
+521Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	187	51	0
+MA2	187	0	185	187
+MM1	51	185	0	51
+MM2	0	187	51	0
+522Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	212	224	212
+MA2	212	0	60	0
+MM1	224	60	0	60
+MM2	212	0	60	0
+523Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	417	177	62
+MA2	417	0	413	409
+MM1	177	413	0	173
+MM2	62	409	173	0
+524Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	232	232	229
+MA2	232	0	0	123
+MM1	232	0	0	123
+MM2	229	123	123	0
+525Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	75	33	0
+MA2	75	0	66	75
+MM1	33	66	0	33
+MM2	0	75	33	0
+527Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	118	52	0
+MA2	118	0	113	118
+MM1	52	113	0	52
+MM2	0	118	52	0
+52Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	161	158	161
+MA2	161	0	76	0
+MM1	158	76	0	76
+MM2	161	0	76	0
+530Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	153	153	151
+MA2	153	0	0	50
+MM1	153	0	0	50
+MM2	151	50	50	0
+531Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	201	0	81
+MA2	201	0	201	171
+MM1	0	201	0	81
+MM2	81	171	81	0
+533Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	0	0	146
+MA2	0	0	0	146
+MM1	0	0	0	146
+MM2	146	146	146	0
+534Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	268	0	135
+MA2	268	0	268	258
+MM1	0	268	0	135
+MM2	135	258	135	0
+535Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	66	376	279
+MA2	66	0	396	345
+MM1	376	396	0	192
+MM2	279	345	192	0
+536Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	73	79	73
+MA2	73	0	27	0
+MM1	79	27	0	27
+MM2	73	0	27	0
+537Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	18	425	149
+MA2	18	0	413	131
+MM1	425	413	0	337
+MM2	149	131	337	0
+539Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	164	0	62
+MA2	164	0	164	164
+MM1	0	164	0	62
+MM2	62	164	62	0
+541Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	334	315	334
+MA2	334	0	168	0
+MM1	315	168	0	168
+MM2	334	0	168	0
+542Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	569	569	593
+MA2	569	0	0	289
+MM1	569	0	0	289
+MM2	593	289	289	0
+543Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	302	137	0
+MA2	302	0	319	302
+MM1	137	319	0	137
+MM2	0	302	137	0
+546Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	113	255	245
+MA2	113	0	239	240
+MM1	255	239	0	164
+MM2	245	240	164	0
+547Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	409	378	390
+MA2	409	0	211	192
+MM1	378	211	0	187
+MM2	390	192	187	0
+548Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	227	118	110
+MA2	227	0	201	211
+MM1	118	201	0	92
+MM2	110	211	92	0
+549Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	260	244	244
+MA2	260	0	142	155
+MM1	244	142	0	134
+MM2	244	155	134	0
+54Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	256	157	162
+MA2	256	0	283	270
+MM1	157	283	0	112
+MM2	162	270	112	0
+550Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	122	202	195
+MA2	122	0	128	73
+MM1	202	128	0	71
+MM2	195	73	71	0
+551Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	580	300	305
+MA2	580	0	586	589
+MM1	300	586	0	318
+MM2	305	589	318	0
+552Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	239	251	251
+MA2	239	0	131	143
+MM1	251	131	0	118
+MM2	251	143	118	0
+553Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	219	98	103
+MA2	219	0	232	234
+MM1	98	232	0	97
+MM2	103	234	97	0
+554Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	137	414	385
+MA2	137	0	341	248
+MM1	414	341	0	286
+MM2	385	248	286	0
+555Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	312	124	151
+MA2	312	0	325	313
+MM1	124	325	0	162
+MM2	151	313	162	0
+556Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	22	138	0
+MA2	22	0	154	22
+MM1	138	154	0	138
+MM2	0	22	138	0
+557Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	296	256	246
+MA2	296	0	413	394
+MM1	256	413	0	206
+MM2	246	394	206	0
+562Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	176	0	97
+MA2	176	0	176	174
+MM1	0	176	0	97
+MM2	97	174	97	0
+563Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	509	525	511
+MA2	509	0	243	220
+MM1	525	243	0	259
+MM2	511	220	259	0
+566Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	21	179	255
+MA2	21	0	194	271
+MM1	179	194	0	206
+MM2	255	271	206	0
+568Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	3	118	105
+MA2	3	0	119	108
+MM1	118	119	0	86
+MM2	105	108	86	0
+569Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	212	212	217
+MA2	212	0	0	164
+MM1	212	0	0	164
+MM2	217	164	164	0
+56Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	236	0	93
+MA2	236	0	236	248
+MM1	0	236	0	93
+MM2	93	248	93	0
+570Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	257	317	309
+MA2	257	0	227	52
+MM1	317	227	0	187
+MM2	309	52	187	0
+571Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	201	205	201
+MA2	201	0	94	0
+MM1	205	94	0	94
+MM2	201	0	94	0
+577Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	246	236	241
+MA2	246	0	132	131
+MM1	236	132	0	133
+MM2	241	131	133	0
+578Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	352	362	342
+MA2	352	0	186	189
+MM1	362	186	0	181
+MM2	342	189	181	0
+581Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	246	104	0
+MA2	246	0	251	246
+MM1	104	251	0	104
+MM2	0	246	104	0
+584Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	375	0	178
+MA2	375	0	375	350
+MM1	0	375	0	178
+MM2	178	350	178	0
+585Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	246	106	103
+MA2	246	0	249	273
+MM1	106	249	0	114
+MM2	103	273	114	0
+586Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	235	235	232
+MA2	235	0	0	112
+MM1	235	0	0	112
+MM2	232	112	112	0
+587Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	31	125	98
+MA2	31	0	139	110
+MM1	125	139	0	84
+MM2	98	110	84	0
+588Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	337	0	194
+MA2	337	0	337	358
+MM1	0	337	0	194
+MM2	194	358	194	0
+589Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	223	60	73
+MA2	223	0	214	219
+MM1	60	214	0	66
+MM2	73	219	66	0
+58Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	291	281	291
+MA2	291	0	107	0
+MM1	281	107	0	107
+MM2	291	0	107	0
+592Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	148	151	158
+MA2	148	0	19	99
+MM1	151	19	0	80
+MM2	158	99	80	0
+593Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	177	177	165
+MA2	177	0	0	76
+MM1	177	0	0	76
+MM2	165	76	76	0
+594Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	160	68	0
+MA2	160	0	164	160
+MM1	68	164	0	68
+MM2	0	160	68	0
+595Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	286	167	10
+MA2	286	0	304	290
+MM1	167	304	0	167
+MM2	10	290	167	0
+596Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	135	135	135
+MA2	135	0	0	0
+MM1	135	0	0	0
+MM2	135	0	0	0
+599Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	178	172	162
+MA2	178	0	86	88
+MM1	172	86	0	86
+MM2	162	88	86	0
+59Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	90	211	9
+MA2	90	0	250	85
+MM1	211	250	0	210
+MM2	9	85	210	0
+5Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	526	525	538
+MA2	526	0	201	297
+MM1	525	201	0	286
+MM2	538	297	286	0
+602Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	92	126	101
+MA2	92	0	81	9
+MM1	126	81	0	77
+MM2	101	9	77	0
+605Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	214	135	127
+MA2	214	0	263	266
+MM1	135	263	0	114
+MM2	127	266	114	0
+607Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	197	83	0
+MA2	197	0	200	197
+MM1	83	200	0	83
+MM2	0	197	83	0
+608Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	178	173	168
+MA2	178	0	98	93
+MM1	173	98	0	61
+MM2	168	93	61	0
+609Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	179	0	53
+MA2	179	0	179	171
+MM1	0	179	0	53
+MM2	53	171	53	0
+610Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	202	202	201
+MA2	202	0	0	98
+MM1	202	0	0	98
+MM2	201	98	98	0
+611Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	107	141	197
+MA2	107	0	248	268
+MM1	141	248	0	76
+MM2	197	268	76	0
+613Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	120	177	120
+MA2	120	0	107	0
+MM1	177	107	0	107
+MM2	120	0	107	0
+615Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	149	56	0
+MA2	149	0	151	149
+MM1	56	151	0	56
+MM2	0	149	56	0
+616Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	196	0	81
+MA2	196	0	196	205
+MM1	0	196	0	81
+MM2	81	205	81	0
+617Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	268	111	0
+MA2	268	0	273	268
+MM1	111	273	0	111
+MM2	0	268	111	0
+618Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	382	211	36
+MA2	382	0	407	418
+MM1	211	407	0	197
+MM2	36	418	197	0
+61Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	371	371	373
+MA2	371	0	120	153
+MM1	371	120	0	150
+MM2	373	153	150	0
+620Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	131	161	152
+MA2	131	0	83	21
+MM1	161	83	0	75
+MM2	152	21	75	0
+622Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	162	162	166
+MA2	162	0	0	40
+MM1	162	0	0	40
+MM2	166	40	40	0
+623Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	165	184	176
+MA2	165	0	93	89
+MM1	184	93	0	78
+MM2	176	89	78	0
+625Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	144	0	41
+MA2	144	0	144	141
+MM1	0	144	0	41
+MM2	41	141	41	0
+626Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	195	206	207
+MA2	195	0	142	143
+MM1	206	142	0	106
+MM2	207	143	106	0
+628Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	185	182	185
+MA2	185	0	120	0
+MM1	182	120	0	120
+MM2	185	0	120	0
+62Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	332	98	0
+MA2	332	0	321	332
+MM1	98	321	0	98
+MM2	0	332	98	0
+630Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	176	178	176
+MA2	176	0	70	0
+MM1	178	70	0	70
+MM2	176	0	70	0
+633Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	424	145	233
+MA2	424	0	414	422
+MM1	145	414	0	211
+MM2	233	422	211	0
+635Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	246	214	246
+MA2	246	0	126	0
+MM1	214	126	0	126
+MM2	246	0	126	0
+638Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	267	268	272
+MA2	267	0	144	152
+MM1	268	144	0	148
+MM2	272	152	148	0
+639Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	456	290	249
+MA2	456	0	495	455
+MM1	290	495	0	221
+MM2	249	455	221	0
+63Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	203	0	80
+MA2	203	0	203	205
+MM1	0	203	0	80
+MM2	80	205	80	0
+644Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	134	156	133
+MA2	134	0	63	1
+MM1	156	63	0	62
+MM2	133	1	62	0
+645Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	184	114	133
+MA2	184	0	186	201
+MM1	114	186	0	95
+MM2	133	201	95	0
+649Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	300	301	300
+MA2	300	0	140	0
+MM1	301	140	0	140
+MM2	300	0	140	0
+650Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	241	0	134
+MA2	241	0	241	271
+MM1	0	241	0	134
+MM2	134	271	134	0
+652Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	162	98	19
+MA2	162	0	177	165
+MM1	98	177	0	92
+MM2	19	165	92	0
+656Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	270	299	283
+MA2	270	0	194	154
+MM1	299	194	0	149
+MM2	283	154	149	0
+657Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	343	159	0
+MA2	343	0	346	343
+MM1	159	346	0	159
+MM2	0	343	159	0
+658Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	472	208	279
+MA2	472	0	453	478
+MM1	208	453	0	259
+MM2	279	478	259	0
+65Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	440	236	229
+MA2	440	0	442	437
+MM1	236	442	0	27
+MM2	229	437	27	0
+660Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	462	462	444
+MA2	462	0	0	268
+MM1	462	0	0	268
+MM2	444	268	268	0
+661Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	337	337	351
+MA2	337	0	0	129
+MM1	337	0	0	129
+MM2	351	129	129	0
+662Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	204	200	195
+MA2	204	0	92	76
+MM1	200	92	0	81
+MM2	195	76	81	0
+663Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	415	397	396
+MA2	415	0	255	206
+MM1	397	255	0	233
+MM2	396	206	233	0
+665Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	85	86	173
+MA2	85	0	1	108
+MM1	86	1	0	107
+MM2	173	108	107	0
+666Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	171	170	173
+MA2	171	0	82	100
+MM1	170	82	0	94
+MM2	173	100	94	0
+668Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	176	168	176
+MA2	176	0	48	57
+MM1	168	48	0	39
+MM2	176	57	39	0
+669Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	775	249	404
+MA2	775	0	783	782
+MM1	249	783	0	431
+MM2	404	782	431	0
+671Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	262	0	10
+MA2	262	0	262	255
+MM1	0	262	0	10
+MM2	10	255	10	0
+672Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	227	133	49
+MA2	227	0	241	213
+MM1	133	241	0	152
+MM2	49	213	152	0
+677Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	378	375	365
+MA2	378	0	213	222
+MM1	375	213	0	213
+MM2	365	222	213	0
+678Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	372	365	372
+MA2	372	0	166	0
+MM1	365	166	0	166
+MM2	372	0	166	0
+67Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	162	154	163
+MA2	162	0	60	62
+MM1	154	60	0	62
+MM2	163	62	62	0
+680Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	115	267	261
+MA2	115	0	297	286
+MM1	267	297	0	161
+MM2	261	286	161	0
+682Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	6	6	5
+MA2	6	0	2	3
+MM1	6	2	0	3
+MM2	5	3	3	0
+684Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	34	71	70
+MA2	34	0	85	86
+MM1	71	85	0	66
+MM2	70	86	66	0
+685Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	471	471	472
+MA2	471	0	0	221
+MM1	471	0	0	221
+MM2	472	221	221	0
+688Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	243	268	272
+MA2	243	0	81	117
+MM1	268	81	0	131
+MM2	272	117	131	0
+689Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	138	182	138
+MA2	138	0	133	0
+MM1	182	133	0	133
+MM2	138	0	133	0
+691Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	63	256	265
+MA2	63	0	222	202
+MM1	256	222	0	141
+MM2	265	202	141	0
+692Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	258	116	0
+MA2	258	0	246	258
+MM1	116	246	0	116
+MM2	0	258	116	0
+693Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	312	182	178
+MA2	312	0	337	333
+MM1	182	337	0	4
+MM2	178	333	4	0
+694Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	483	487	502
+MA2	483	0	213	188
+MM1	487	213	0	202
+MM2	502	188	202	0
+695Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	49	49	32
+MA2	49	0	80	80
+MM1	49	80	0	27
+MM2	32	80	27	0
+697Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	210	210	210
+MA2	210	0	96	0
+MM1	210	96	0	96
+MM2	210	0	96	0
+698Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	101	34	42
+MA2	101	0	97	105
+MM1	34	97	0	36
+MM2	42	105	36	0
+699Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	407	444	457
+MA2	407	0	315	332
+MM1	444	315	0	281
+MM2	457	332	281	0
+69Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	281	263	268
+MA2	281	0	101	137
+MM1	263	101	0	141
+MM2	268	137	141	0
+700Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	281	281	263
+MA2	281	0	0	126
+MM1	281	0	0	126
+MM2	263	126	126	0
+701Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	184	47	160
+MA2	184	0	231	221
+MM1	47	231	0	113
+MM2	160	221	113	0
+704Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	71	284	261
+MA2	71	0	289	275
+MM1	284	289	0	162
+MM2	261	275	162	0
+705Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	266	266	254
+MA2	266	0	0	115
+MM1	266	0	0	115
+MM2	254	115	115	0
+706Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	368	406	415
+MA2	368	0	180	177
+MM1	406	180	0	195
+MM2	415	177	195	0
+707Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	483	493	461
+MA2	483	0	232	209
+MM1	493	232	0	245
+MM2	461	209	245	0
+710Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	361	338	361
+MA2	361	0	160	0
+MM1	338	160	0	160
+MM2	361	0	160	0
+712Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	164	100	0
+MA2	164	0	178	164
+MM1	100	178	0	100
+MM2	0	164	100	0
+713Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	186	0	0
+MA2	186	0	186	186
+MM1	0	186	0	0
+MM2	0	186	0	0
+714Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	330	321	330
+MA2	330	0	152	0
+MM1	321	152	0	152
+MM2	330	0	152	0
+716Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	161	0	92
+MA2	161	0	161	161
+MM1	0	161	0	92
+MM2	92	161	92	0
+718Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	334	330	334
+MA2	334	0	80	0
+MM1	330	80	0	80
+MM2	334	0	80	0
+719Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	158	162	166
+MA2	158	0	51	46
+MM1	162	51	0	65
+MM2	166	46	65	0
+71Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	6	6	6
+MA2	6	0	0	0
+MM1	6	0	0	0
+MM2	6	0	0	0
+722Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	31	22	8
+MA2	31	0	34	25
+MM1	22	34	0	18
+MM2	8	25	18	0
+723Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	214	214	214
+MA2	214	0	64	0
+MM1	214	64	0	64
+MM2	214	0	64	0
+725Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	306	264	215
+MA2	306	0	233	93
+MM1	264	233	0	166
+MM2	215	93	166	0
+726Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	249	3	104
+MA2	249	0	246	256
+MM1	3	246	0	101
+MM2	104	256	101	0
+728Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	414	432	414
+MA2	414	0	203	0
+MM1	432	203	0	203
+MM2	414	0	203	0
+729Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	228	228	223
+MA2	228	0	0	132
+MM1	228	0	0	132
+MM2	223	132	132	0
+72Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	209	209	198
+MA2	209	0	0	129
+MM1	209	0	0	129
+MM2	198	129	129	0
+730Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	210	0	68
+MA2	210	0	210	212
+MM1	0	210	0	68
+MM2	68	212	68	0
+732Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	181	189	181
+MA2	181	0	46	0
+MM1	189	46	0	46
+MM2	181	0	46	0
+733Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	207	206	194
+MA2	207	0	131	104
+MM1	206	131	0	110
+MM2	194	104	110	0
+737Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	278	130	128
+MA2	278	0	273	288
+MM1	130	273	0	164
+MM2	128	288	164	0
+738Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	110	107	102
+MA2	110	0	164	181
+MM1	107	164	0	77
+MM2	102	181	77	0
+739Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	143	137	143
+MA2	143	0	60	0
+MM1	137	60	0	60
+MM2	143	0	60	0
+73Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	175	97	0
+MA2	175	0	177	175
+MM1	97	177	0	97
+MM2	0	175	97	0
+740Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	193	0	112
+MA2	193	0	193	179
+MM1	0	193	0	112
+MM2	112	179	112	0
+741Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	262	178	178
+MA2	262	0	263	263
+MM1	178	263	0	0
+MM2	178	263	0	0
+742Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	414	228	228
+MA2	414	0	409	409
+MM1	228	409	0	0
+MM2	228	409	0	0
+743Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	553	553	548
+MA2	553	0	0	261
+MM1	553	0	0	261
+MM2	548	261	261	0
+744Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	295	317	295
+MA2	295	0	147	0
+MM1	317	147	0	147
+MM2	295	0	147	0
+746Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	227	227	217
+MA2	227	0	0	125
+MM1	227	0	0	125
+MM2	217	125	125	0
+747Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	216	115	115
+MA2	216	0	217	217
+MM1	115	217	0	0
+MM2	115	217	0	0
+749Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	268	193	152
+MA2	268	0	194	116
+MM1	193	194	0	121
+MM2	152	116	121	0
+74Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	140	0	80
+MA2	140	0	140	142
+MM1	0	140	0	80
+MM2	80	142	80	0
+750Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	151	149	152
+MA2	151	0	182	204
+MM1	149	182	0	143
+MM2	152	204	143	0
+751Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	314	335	334
+MA2	314	0	202	232
+MM1	335	202	0	197
+MM2	334	232	197	0
+754Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	216	250	216
+MA2	216	0	126	0
+MM1	250	126	0	126
+MM2	216	0	126	0
+755Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	252	100	0
+MA2	252	0	249	252
+MM1	100	249	0	100
+MM2	0	252	100	0
+756Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	100	173	169
+MA2	100	0	207	196
+MM1	173	207	0	68
+MM2	169	196	68	0
+758Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	148	148	160
+MA2	148	0	0	76
+MM1	148	0	0	76
+MM2	160	76	76	0
+75Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	289	293	289
+MA2	289	0	117	0
+MM1	293	117	0	117
+MM2	289	0	117	0
+760Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	193	72	0
+MA2	193	0	181	193
+MM1	72	181	0	72
+MM2	0	193	72	0
+761Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	245	245	227
+MA2	245	0	0	136
+MM1	245	0	0	136
+MM2	227	136	136	0
+762Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	259	259	238
+MA2	259	0	0	103
+MM1	259	0	0	103
+MM2	238	103	103	0
+764Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	6	56	220
+MA2	6	0	50	214
+MM1	56	50	0	197
+MM2	220	214	197	0
+766Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	153	18	84
+MA2	153	0	171	180
+MM1	18	171	0	82
+MM2	84	180	82	0
+769Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	182	12	0
+MA2	182	0	186	182
+MM1	12	186	0	12
+MM2	0	182	12	0
+76Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	20	88	111
+MA2	20	0	104	115
+MM1	88	104	0	79
+MM2	111	115	79	0
+771Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	276	262	276
+MA2	276	0	82	0
+MM1	262	82	0	82
+MM2	276	0	82	0
+772Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	222	222	219
+MA2	222	0	0	82
+MM1	222	0	0	82
+MM2	219	82	82	0
+773Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	190	107	0
+MA2	190	0	179	190
+MM1	107	179	0	107
+MM2	0	190	107	0
+774Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	314	120	145
+MA2	314	0	318	323
+MM1	120	318	0	138
+MM2	145	323	138	0
+775Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	295	266	292
+MA2	295	0	148	175
+MM1	266	148	0	165
+MM2	292	175	165	0
+776Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	110	165	129
+MA2	110	0	129	103
+MM1	165	129	0	118
+MM2	129	103	118	0
+779Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	176	0	76
+MA2	176	0	176	175
+MM1	0	176	0	76
+MM2	76	175	76	0
+780Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	221	221	214
+MA2	221	0	0	106
+MM1	221	0	0	106
+MM2	214	106	106	0
+783Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	155	95	99
+MA2	155	0	157	171
+MM1	95	157	0	103
+MM2	99	171	103	0
+784Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	181	180	181
+MA2	181	0	112	0
+MM1	180	112	0	112
+MM2	181	0	112	0
+788Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	170	170	170
+MA2	170	0	67	0
+MM1	170	67	0	67
+MM2	170	0	67	0
+789Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	225	224	223
+MA2	225	0	130	157
+MM1	224	130	0	149
+MM2	223	157	149	0
+78Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	132	152	120
+MA2	132	0	145	96
+MM1	152	145	0	89
+MM2	120	96	89	0
+794Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	238	127	125
+MA2	238	0	235	233
+MM1	127	235	0	2
+MM2	125	233	2	0
+795Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	303	91	125
+MA2	303	0	297	298
+MM1	91	297	0	121
+MM2	125	298	121	0
+796Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	293	300	293
+MA2	293	0	126	0
+MM1	300	126	0	126
+MM2	293	0	126	0
+797Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	325	159	0
+MA2	325	0	305	325
+MM1	159	305	0	159
+MM2	0	325	159	0
+799Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	200	155	158
+MA2	200	0	225	240
+MM1	155	225	0	115
+MM2	158	240	115	0
+802Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	282	287	286
+MA2	282	0	158	167
+MM1	287	158	0	176
+MM2	286	167	176	0
+805Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	237	258	259
+MA2	237	0	115	114
+MM1	258	115	0	1
+MM2	259	114	1	0
+806Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	286	275	287
+MA2	286	0	151	7
+MM1	275	151	0	158
+MM2	287	7	158	0
+807Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	302	162	162
+MA2	302	0	297	297
+MM1	162	297	0	0
+MM2	162	297	0	0
+808Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	142	67	79
+MA2	142	0	146	145
+MM1	67	146	0	70
+MM2	79	145	70	0
+80Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	157	88	0
+MA2	157	0	154	157
+MM1	88	154	0	88
+MM2	0	157	88	0
+810Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	468	460	476
+MA2	468	0	222	200
+MM1	460	222	0	254
+MM2	476	200	254	0
+812Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	82	89	85
+MA2	82	0	29	7
+MM1	89	29	0	28
+MM2	85	7	28	0
+813Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	168	182	168
+MA2	168	0	63	0
+MM1	182	63	0	63
+MM2	168	0	63	0
+814Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	267	247	237
+MA2	267	0	162	154
+MM1	247	162	0	170
+MM2	237	154	170	0
+817Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	264	262	264
+MA2	264	0	110	0
+MM1	262	110	0	110
+MM2	264	0	110	0
+819Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	172	172	164
+MA2	172	0	0	34
+MM1	172	0	0	34
+MM2	164	34	34	0
+820Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	267	241	270
+MA2	267	0	118	149
+MM1	241	118	0	137
+MM2	270	149	137	0
+822Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	570	292	0
+MA2	570	0	569	570
+MM1	292	569	0	292
+MM2	0	570	292	0
+823Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	219	97	113
+MA2	219	0	206	215
+MM1	97	206	0	83
+MM2	113	215	83	0
+824Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	106	173	136
+MA2	106	0	145	98
+MM1	173	145	0	88
+MM2	136	98	88	0
+826Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	238	238	239
+MA2	238	0	0	94
+MM1	238	0	0	94
+MM2	239	94	94	0
+827Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	470	470	468
+MA2	470	0	0	225
+MM1	470	0	0	225
+MM2	468	225	225	0
+830Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	22	25	56
+MA2	22	0	3	48
+MM1	25	3	0	49
+MM2	56	48	49	0
+831Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	165	280	272
+MA2	165	0	115	229
+MM1	280	115	0	182
+MM2	272	229	182	0
+832Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	47	177	158
+MA2	47	0	195	170
+MM1	177	195	0	149
+MM2	158	170	149	0
+835Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	261	272	265
+MA2	261	0	156	143
+MM1	272	156	0	134
+MM2	265	143	134	0
+838Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	294	291	294
+MA2	294	0	88	121
+MM1	291	88	0	109
+MM2	294	121	109	0
+839Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	231	231	234
+MA2	231	0	0	105
+MM1	231	0	0	105
+MM2	234	105	105	0
+83Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	279	271	279
+MA2	279	0	93	0
+MM1	271	93	0	93
+MM2	279	0	93	0
+842Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	0	195	215
+MA2	0	0	195	215
+MM1	195	195	0	127
+MM2	215	215	127	0
+845Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	215	214	212
+MA2	215	0	88	93
+MM1	214	88	0	94
+MM2	212	93	94	0
+849Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	257	287	265
+MA2	257	0	236	222
+MM1	287	236	0	158
+MM2	265	222	158	0
+84Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	196	206	196
+MA2	196	0	67	0
+MM1	206	67	0	67
+MM2	196	0	67	0
+850Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	231	95	0
+MA2	231	0	229	231
+MM1	95	229	0	95
+MM2	0	231	95	0
+852Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	390	201	235
+MA2	390	0	392	408
+MM1	201	392	0	250
+MM2	235	408	250	0
+853Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	230	0	128
+MA2	230	0	230	227
+MM1	0	230	0	128
+MM2	128	227	128	0
+855Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	350	372	363
+MA2	350	0	445	470
+MM1	372	445	0	278
+MM2	363	470	278	0
+857Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	0	732	748
+MA2	0	0	732	748
+MM1	732	732	0	333
+MM2	748	748	333	0
+858Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	297	0	74
+MA2	297	0	297	298
+MM1	0	297	0	74
+MM2	74	298	74	0
+859Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	241	121	169
+MA2	241	0	248	253
+MM1	121	248	0	160
+MM2	169	253	160	0
+85Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	263	251	263
+MA2	263	0	146	0
+MM1	251	146	0	146
+MM2	263	0	146	0
+862Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	225	239	243
+MA2	225	0	120	18
+MM1	239	120	0	102
+MM2	243	18	102	0
+863Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	215	207	206
+MA2	215	0	116	108
+MM1	207	116	0	128
+MM2	206	108	128	0
+864Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	268	0	139
+MA2	268	0	268	264
+MM1	0	268	0	139
+MM2	139	264	139	0
+867Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	191	210	202
+MA2	191	0	19	81
+MM1	210	19	0	62
+MM2	202	81	62	0
+868Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	199	0	79
+MA2	199	0	199	192
+MM1	0	199	0	79
+MM2	79	192	79	0
+869Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	0	206	0
+MA2	0	0	206	0
+MM1	206	206	0	206
+MM2	0	0	206	0
+873Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	76	162	156
+MA2	76	0	200	196
+MM1	162	200	0	56
+MM2	156	196	56	0
+879Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	230	142	0
+MA2	230	0	230	230
+MM1	142	230	0	142
+MM2	0	230	142	0
+87Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	431	418	431
+MA2	431	0	111	0
+MM1	418	111	0	111
+MM2	431	0	111	0
+880Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	180	0	96
+MA2	180	0	180	183
+MM1	0	180	0	96
+MM2	96	183	96	0
+883Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	369	366	366
+MA2	369	0	52	52
+MM1	366	52	0	0
+MM2	366	52	0	0
+884Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	175	185	176
+MA2	175	0	68	1
+MM1	185	68	0	67
+MM2	176	1	67	0
+885Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	290	132	194
+MA2	290	0	285	239
+MM1	132	285	0	166
+MM2	194	239	166	0
+887Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	208	235	253
+MA2	208	0	120	148
+MM1	235	120	0	166
+MM2	253	148	166	0
+890Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	364	109	0
+MA2	364	0	365	364
+MM1	109	365	0	109
+MM2	0	364	109	0
+894Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	102	75	81
+MA2	102	0	144	167
+MM1	75	144	0	105
+MM2	81	167	105	0
+897Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	69	19	0
+MA2	69	0	68	69
+MM1	19	68	0	19
+MM2	0	69	19	0
+898Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	370	0	202
+MA2	370	0	370	373
+MM1	0	370	0	202
+MM2	202	373	202	0
+899Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	435	194	33
+MA2	435	0	434	435
+MM1	194	434	0	161
+MM2	33	435	161	0
+89Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	154	55	79
+MA2	154	0	153	166
+MM1	55	153	0	65
+MM2	79	166	65	0
+8Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	320	317	320
+MA2	320	0	238	0
+MM1	317	238	0	238
+MM2	320	0	238	0
+900Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	230	0	114
+MA2	230	0	230	232
+MM1	0	230	0	114
+MM2	114	232	114	0
+902Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	614	561	614
+MA2	614	0	377	0
+MM1	561	377	0	377
+MM2	614	0	377	0
+903Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	113	114	113
+MA2	113	0	27	0
+MM1	114	27	0	27
+MM2	113	0	27	0
+904Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	170	0	81
+MA2	170	0	170	167
+MM1	0	170	0	81
+MM2	81	167	81	0
+905Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	324	0	166
+MA2	324	0	324	324
+MM1	0	324	0	166
+MM2	166	324	166	0
+906Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	305	67	157
+MA2	305	0	290	276
+MM1	67	290	0	136
+MM2	157	276	136	0
+907Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	159	104	0
+MA2	159	0	181	159
+MM1	104	181	0	104
+MM2	0	159	104	0
+908Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	366	0	208
+MA2	366	0	366	373
+MM1	0	366	0	208
+MM2	208	373	208	0
+909Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	207	103	0
+MA2	207	0	214	207
+MM1	103	214	0	103
+MM2	0	207	103	0
+910Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	302	158	151
+MA2	302	0	287	279
+MM1	158	287	0	136
+MM2	151	279	136	0
+911Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	45	185	173
+MA2	45	0	212	198
+MM1	185	212	0	151
+MM2	173	198	151	0
+916Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	188	188	194
+MA2	188	0	0	94
+MM1	188	0	0	94
+MM2	194	94	94	0
+917Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	78	0	16
+MA2	78	0	78	75
+MM1	0	78	0	16
+MM2	16	75	16	0
+918Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	258	149	117
+MA2	258	0	249	275
+MM1	149	249	0	181
+MM2	117	275	181	0
+919Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	65	267	0
+MA2	65	0	304	65
+MM1	267	304	0	267
+MM2	0	65	267	0
+91Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	537	550	579
+MA2	537	0	349	416
+MM1	550	349	0	369
+MM2	579	416	369	0
+920Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	88	111	147
+MA2	88	0	23	86
+MM1	111	23	0	76
+MM2	147	86	76	0
+922Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	364	248	196
+MA2	364	0	392	386
+MM1	248	392	0	249
+MM2	196	386	249	0
+923Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	223	0	117
+MA2	223	0	223	220
+MM1	0	223	0	117
+MM2	117	220	117	0
+924Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	193	18	94
+MA2	193	0	211	207
+MM1	18	211	0	76
+MM2	94	207	76	0
+925Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	137	122	0
+MA2	137	0	182	137
+MM1	122	182	0	122
+MM2	0	137	122	0
+926Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	219	201	219
+MA2	219	0	98	0
+MM1	201	98	0	98
+MM2	219	0	98	0
+927Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	208	91	86
+MA2	208	0	209	222
+MM1	91	209	0	61
+MM2	86	222	61	0
+928Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	137	137	124
+MA2	137	0	70	68
+MM1	137	70	0	76
+MM2	124	68	76	0
+929Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	231	260	251
+MA2	231	0	141	166
+MM1	260	141	0	183
+MM2	251	166	183	0
+92Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	191	193	191
+MA2	191	0	68	0
+MM1	193	68	0	68
+MM2	191	0	68	0
+930Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	478	484	449
+MA2	478	0	233	276
+MM1	484	233	0	259
+MM2	449	276	259	0
+932Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	174	104	0
+MA2	174	0	178	174
+MM1	104	178	0	104
+MM2	0	174	104	0
+933Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	339	179	0
+MA2	339	0	350	339
+MM1	179	350	0	179
+MM2	0	339	179	0
+936Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	197	129	0
+MA2	197	0	181	197
+MM1	129	181	0	129
+MM2	0	197	129	0
+937Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	120	0	49
+MA2	120	0	120	123
+MM1	0	120	0	49
+MM2	49	123	49	0
+938Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	288	287	280
+MA2	288	0	110	104
+MM1	287	110	0	98
+MM2	280	104	98	0
+939Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	247	238	248
+MA2	247	0	56	3
+MM1	238	56	0	53
+MM2	248	3	53	0
+93Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	86	96	93
+MA2	86	0	28	33
+MM1	96	28	0	41
+MM2	93	33	41	0
+941Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	81	269	294
+MA2	81	0	188	247
+MM1	269	188	0	178
+MM2	294	247	178	0
+942Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	207	207	207
+MA2	207	0	113	0
+MM1	207	113	0	113
+MM2	207	0	113	0
+943Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	189	188	188
+MA2	189	0	52	51
+MM1	188	52	0	51
+MM2	188	51	51	0
+944Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	145	85	0
+MA2	145	0	192	145
+MM1	85	192	0	85
+MM2	0	145	85	0
+945Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	351	189	190
+MA2	351	0	364	350
+MM1	189	364	0	217
+MM2	190	350	217	0
+947Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	228	101	0
+MA2	228	0	251	228
+MM1	101	251	0	101
+MM2	0	228	101	0
+94Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	202	202	208
+MA2	202	0	0	101
+MM1	202	0	0	101
+MM2	208	101	101	0
+950Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	0	195	211
+MA2	0	0	195	211
+MM1	195	195	0	211
+MM2	211	211	211	0
+953Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	225	234	218
+MA2	225	0	95	42
+MM1	234	95	0	94
+MM2	218	42	94	0
+954Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	152	94	0
+MA2	152	0	150	152
+MM1	94	150	0	94
+MM2	0	152	94	0
+955Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	330	163	115
+MA2	330	0	337	328
+MM1	163	337	0	190
+MM2	115	328	190	0
+956Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	150	155	163
+MA2	150	0	57	45
+MM1	155	57	0	54
+MM2	163	45	54	0
+957Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	241	209	114
+MA2	241	0	261	257
+MM1	209	261	0	176
+MM2	114	257	176	0
+958Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	126	126	168
+MA2	126	0	0	116
+MM1	126	0	0	116
+MM2	168	116	116	0
+959Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	160	249	156
+MA2	160	0	237	114
+MM1	249	237	0	157
+MM2	156	114	157	0
+95Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	122	165	122
+MA2	122	0	87	0
+MM1	165	87	0	87
+MM2	122	0	87	0
+961Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	84	2024	2022
+MA2	84	0	2016	2014
+MM1	2024	2016	0	53
+MM2	2022	2014	53	0
+962Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	238	234	259
+MA2	238	0	167	160
+MM1	234	167	0	154
+MM2	259	160	154	0
+963Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	91	91	92
+MA2	91	0	45	1
+MM1	91	45	0	44
+MM2	92	1	44	0
+964Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	325	325	314
+MA2	325	0	0	171
+MM1	325	0	0	171
+MM2	314	171	171	0
+966Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	306	309	301
+MA2	306	0	146	152
+MM1	309	146	0	136
+MM2	301	152	136	0
+967Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	206	197	206
+MA2	206	0	74	0
+MM1	197	74	0	74
+MM2	206	0	74	0
+969Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	115	161	147
+MA2	115	0	191	181
+MM1	161	191	0	145
+MM2	147	181	145	0
+96Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	314	296	308
+MA2	314	0	149	88
+MM1	296	149	0	61
+MM2	308	88	61	0
+970Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	376	376	457
+MA2	376	0	0	312
+MM1	376	0	0	312
+MM2	457	312	312	0
+971Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	168	166	168
+MA2	168	0	71	0
+MM1	166	71	0	71
+MM2	168	0	71	0
+972Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	47	1629	1626
+MA2	47	0	1632	1629
+MM1	1629	1632	0	20
+MM2	1626	1629	20	0
+974Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	391	407	414
+MA2	391	0	217	209
+MM1	407	217	0	140
+MM2	414	209	140	0
+975Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	149	0	66
+MA2	149	0	149	139
+MM1	0	149	0	66
+MM2	66	139	66	0
+976Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	129	129	134
+MA2	129	0	0	36
+MM1	129	0	0	36
+MM2	134	36	36	0
+978Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	181	195	181
+MA2	181	0	103	0
+MM1	195	103	0	103
+MM2	181	0	103	0
+97Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	411	412	409
+MA2	411	0	171	248
+MM1	412	171	0	229
+MM2	409	248	229	0
+980Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	183	211	216
+MA2	183	0	137	145
+MM1	211	137	0	84
+MM2	216	145	84	0
+981Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	386	401	399
+MA2	386	0	196	174
+MM1	401	196	0	158
+MM2	399	174	158	0
+982Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	99	99	92
+MA2	99	0	0	41
+MM1	99	0	0	41
+MM2	92	41	41	0
+986Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	222	217	224
+MA2	222	0	129	173
+MM1	217	129	0	133
+MM2	224	173	133	0
+987Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	207	96	92
+MA2	207	0	194	193
+MM1	96	194	0	27
+MM2	92	193	27	0
+988Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	244	244	264
+MA2	244	0	0	135
+MM1	244	0	0	135
+MM2	264	135	135	0
+98Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	153	139	154
+MA2	153	0	43	63
+MM1	139	43	0	51
+MM2	154	63	51	0
+9Nsremoved_gb_rename_nospace_srt_1kbtrim_dist.tab
+	MA1	MA2	MM1	MM2
+MA1	0	285	110	0
+MA2	285	0	283	285
+MM1	110	283	0	110
+MM2	0	285	110	0
+*_dist.tab

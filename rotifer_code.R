@@ -1,9 +1,9 @@
 library(tidyverse)
-setwd("~/Projects/genomics/rotifer/manuscript/")
+setwd("~/Projects/genomics/rotifer/rotifer-outcrossing/")
 
-rtb<-read_csv("~/Projects/genomics/rotifer/manuscript/analysis/combining_3_and_2_ways-final.csv", col_names=c("nanopore", "region_3", "length_3", "MAMM_3", "MACR_3", "MMCR_3", "region_MAMM", "length_MAMM", "MAMM_2", "region_MACR", "length_MACR", "MACR_2", "region_MMCR", "length_MMCR", "MMCR_2"), skip=1)
+rtb<-read_csv("data/combining_3_and_2_ways-final-between.csv", col_names=c("nanopore", "region_3", "length_3", "MAMM_3", "MACR_3", "MMCR_3", "region_MAMM", "length_MAMM", "MAMM_2", "region_MACR", "length_MACR", "MACR_2", "region_MMCR", "length_MMCR", "MMCR_2"), skip=1)
 
-rtw<-read_csv("~/Projects/genomics/rotifer/manuscript/analysis/combining_3_and_2_ways-final-within.csv", col_names=c("nanopore", "region_3", "length_3", "MA_3way", "CR_3way", "MM_3way", "region_MAMM", "length_MAMM", "MA_2", "MM_2", "region_MACR", "length_MACR", "MA_3", "CR_3", "region_MMCR", "length_MMCR", "MM_4", "CR_4"), skip=1)
+rtw<-read_csv("data/combining_3_and_2_ways-final-within.csv", col_names=c("nanopore", "region_3", "length_3", "MA_3way", "CR_3way", "MM_3way", "region_MAMM", "length_MAMM", "MA_2", "MM_2", "region_MACR", "length_MACR", "MA_3", "CR_3", "region_MMCR", "length_MMCR", "MM_4", "CR_4"), skip=1)
 
 #make nanopore <-> region filter
 region_key <- rtb %>% select(nanopore, region_3, region_MAMM, region_MMCR, region_MACR)

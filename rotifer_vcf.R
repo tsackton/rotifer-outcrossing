@@ -34,6 +34,11 @@ mm<-read_tsv("~/Projects/genomics/rotifer/PNAS/vcfs/MM.ad.out", col_types = "cnc
 ma %>% 
   rename(CR=CRfreq, MM=MMfreq, MA=MAfreq) %>%
   pivot_longer(CR:MM, names_to ="isolate", values_to = "alt_freq") %>% 
+  ggplot(aes(alt_freq, fill=isolate)) + geom_histogram(bins=50)
+
+ma %>% 
+  rename(CR=CRfreq, MM=MMfreq, MA=MAfreq) %>% select(-CR) %>%
+  pivot_longer(MA:MM, names_to ="isolate", values_to = "alt_freq") %>% 
   ggplot(aes(alt_freq, fill=isolate)) + geom_histogram(bins=50) 
                                                                                             
 cr %>% ggplot(aes(MAfreq)) + geom_histogram(bins=50)
